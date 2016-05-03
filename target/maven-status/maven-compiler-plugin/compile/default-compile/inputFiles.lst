@@ -1,0 +1,13 @@
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/processor/PersonItemProcessor.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/listener/JobCompletionNotificationListener.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/pojo/Person.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/listener/ReadListener.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/listener/JobDetailsCompletionNotificationListener.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/Application.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/config/AppConfig.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/writers/ElasticsearchItemWriter.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/pojo/JobDetails.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/config/JobDetailsBatchConfiguration.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/config/DatabaseConfig.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/utils/IndexUtils.java
+/Users/alexfernandezwhiteskylabs/app/create-job-batch/src/main/java/com/alexfrndz/processor/JobDetailsItemProcessor.java

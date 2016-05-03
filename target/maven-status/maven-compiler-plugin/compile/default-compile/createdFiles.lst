@@ -1,0 +1,17 @@
+com/alexfrndz/listener/ReadListener.class
+com/alexfrndz/config/DatabaseConfig.class
+com/alexfrndz/processor/PersonItemProcessor.class
+com/alexfrndz/pojo/JobDetails.class
+com/alexfrndz/config/JobDetailsBatchConfiguration$1$2.class
+com/alexfrndz/config/JobDetailsBatchConfiguration.class
+com/alexfrndz/pojo/Person.class
+com/alexfrndz/listener/JobCompletionNotificationListener$1.class
+com/alexfrndz/writers/ElasticsearchItemWriter.class
+com/alexfrndz/listener/JobCompletionNotificationListener.class
+com/alexfrndz/config/JobDetailsBatchConfiguration$1.class
+com/alexfrndz/config/AppConfig.class
+com/alexfrndz/config/JobDetailsBatchConfiguration$1$1.class
+com/alexfrndz/listener/JobDetailsCompletionNotificationListener.class
+com/alexfrndz/utils/IndexUtils.class
+com/alexfrndz/Application.class
+com/alexfrndz/processor/JobDetailsItemProcessor.class
